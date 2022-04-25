@@ -2,7 +2,8 @@
 - 👀 I’m interested in gamedevelopment and web development
 - 🌱 I’m currently learning more about server side programming
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email me 
+- 📫 You can email me at aalidev@gmail.com
+- Wisit my website softdev00.github.io
 
 <!---
 softdev00/softdev00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
