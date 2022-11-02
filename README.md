@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @softdev00
+- 👋 Hi, I’m Aalif
 - From :maldives:
 - Student at Imaduddin school Male' Maldives
 - 👀 I’m interested in gamedevelopment and web development
 - 🌱 I’m currently learning more about server side programming and unity game development
-- 💞️ I’m looking to collaborate on javascript projects
-- 📫 You can email me at aalidev@gmail.com
-- 🌐 Wisit my website [softdev00](https://softdev00.github.io)
+- 🌐 Wisit my website [aalif-mv](https://aalif-mv.github.io)
 - 📖 My skills are game developmemt web development software development android app development
 - 📄 programming languages i know : JavaScript, python, Java
 
