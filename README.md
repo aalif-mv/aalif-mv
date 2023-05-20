@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aalif
 - From :maldives:
-- 🌐 Wisit my website [aalif-mv](https://aalif-mv.github.io)
+- 🌐 Visit my website [aalif-mv](https://aalif-mv.github.io)
 - 📄 programming languages i know : JavaScript, python, Java
 
 <!---
