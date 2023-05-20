@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Aalif
 - From :maldives:
-- Student at Imaduddin school Male' Maldives
 - 🌐 Wisit my website [aalif-mv](https://aalif-mv.github.io)
 - 📄 programming languages i know : JavaScript, python, Java
 
